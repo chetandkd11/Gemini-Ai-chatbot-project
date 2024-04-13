@@ -15,7 +15,7 @@ chat format models.
 
 <h1>3. Scope</h1>
 ● API Key Management: Acquisition and secure storage of the Gemini Pro API key.
-● Development: Python application development for both textonly and chat format
+● Development: Python application development for both text only and chat format
 models.
 ● Testing: Comprehensive testing of the application to ensure functionality and
 performance.
@@ -30,3 +30,5 @@ Testing Report: Documentation of all tests performed and results.
 Documentation: Comprehensive guide on the application, including setup, usage, and
 maintenance.
 Support Plan: Initial support plan for the application deployment phase
+
+<h2><i>Thankyou &#128525</i></h2>
